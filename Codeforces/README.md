@@ -1,27 +1,21 @@
-# 🔵 Codeforces Solutions
+# 💻 Competitive Programming
 
-> All solutions in C++ 💻
+> Consistency is the key to mastery 🔑
+
+## 🌐 Platforms
+
+| Platform | Problems Solved |
+|----------|----------------|
+| LeetCode | 1 |
+| Codeforces | 1 |
+| HackerRank | 0 |
+| CodeChef | 0 |
 
 ## 📁 Structure
-- 800/
-- 900/
-- 1000/
-- 1200/
-- 1400/
+- LeetCode/ → Easy, Medium, Hard
+- Codeforces/ → 800, 1000, 1200, 1400
+- HackerRank/ → Easy, Medium, Hard
+- CodeChef/ → Practice
 
 ## 🛠️ Language
 - C++ (g++17)
-
-## 📊 Progress
-| Rating | Solved |
-|--------|--------|
-| 800 | 0 |
-| 900 | 0 |
-| 1000 | 0 |
-| 1200 | 0 |
-| 1400 | 0 |
-| **Total** | **0** |
-
-## 📝 File Naming
-- `A_Watermelon.cpp`
-- `B_ProblemName.cpp`
