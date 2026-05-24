@@ -1,6 +1,6 @@
 # 🔵 Codeforces Solutions
 
-> Organized by problem rating
+> All solutions in C++ 💻
 
 ## 📁 Structure
 - 800/
@@ -8,6 +8,9 @@
 - 1000/
 - 1200/
 - 1400/
+
+## 🛠️ Language
+- C++ (g++17)
 
 ## 📊 Progress
 | Rating | Solved |
@@ -18,3 +21,7 @@
 | 1200 | 0 |
 | 1400 | 0 |
 | **Total** | **0** |
+
+## 📝 File Naming
+- `A_Watermelon.cpp`
+- `B_ProblemName.cpp`
