@@ -6,7 +6,6 @@ public:
     int lengthOfLongestSubstring(string s) {
         unordered_map<char, int> charIndex;
         int left = 0, maxLen = 0;
-
         for (int right = 0; right < s.size(); right++) {
             char c = s[right];
 
