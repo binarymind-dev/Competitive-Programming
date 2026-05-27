@@ -15,7 +15,7 @@
 |------------|--------|
 | Easy | 2 |
 | Medium | 1 |
-| Hard | 0 |
+| Hard | 1 |
 | **Total** | **0** |
 
 ## 📝 File Naming
