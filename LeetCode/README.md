@@ -13,9 +13,9 @@
 ## 📊 Progress
 | Difficulty | Solved |
 |------------|--------|
-| Easy | 5 |
-| Medium | 2 |
-| Hard | 1 |
+| Easy | 7 |
+| Medium | 3 |
+| Hard | 2 |
 | **Total** | **0** |
 
 ## 📝 File Naming
