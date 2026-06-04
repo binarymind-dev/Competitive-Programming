@@ -16,7 +16,7 @@
 | Easy | 7 |
 | Medium | 3 |
 | Hard | 2 |
-| **Total** | **0** |
+| **Total** | **12** |
 
 ## 📝 File Naming
 - `001_TwoSum.cpp`
