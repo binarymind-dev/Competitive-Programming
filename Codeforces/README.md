@@ -6,8 +6,8 @@
 
 | Platform | Problems Solved |
 |----------|----------------|
-| LeetCode | 12 |
-| Codeforces | 12 |
+| LeetCode | 13 |
+| Codeforces | 13 |
 | HackerRank | 0 |
 | CodeChef | 0 |
 
