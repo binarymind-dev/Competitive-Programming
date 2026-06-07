@@ -13,7 +13,7 @@
 ## 📊 Progress
 | Difficulty | Solved |
 |------------|--------|
-| Easy | 8 |
+| Easy | 9 |
 | Medium | 3 |
 | Hard | 2 |
 | **Total** | **13** |
