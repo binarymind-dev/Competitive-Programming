@@ -14,9 +14,9 @@
 | Difficulty | Solved |
 |------------|--------|
 | Easy | 10 |
-| Medium | 7 |
+| Medium | 8 |
 | Hard | 2 |
-| **Total** | **19** |
+| **Total** | **20** |
 
 ## 📝 File Naming
 - `001_TwoSum.cpp`
