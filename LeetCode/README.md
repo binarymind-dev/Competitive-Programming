@@ -13,10 +13,10 @@
 ## 📊 Progress
 | Difficulty | Solved |
 |------------|--------|
-| Easy | 10 |
+| Easy | 11 |
 | Medium | 8 |
 | Hard | 2 |
-| **Total** | **20** |
+| **Total** | **21** |
 
 ## 📝 File Naming
 - `001_TwoSum.cpp`
