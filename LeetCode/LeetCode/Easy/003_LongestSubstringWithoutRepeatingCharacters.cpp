@@ -9,7 +9,6 @@ public:
         for (int right = 0; right < s.size(); right++) {
             char c = s[right];
 
-            // If char seen and within current window, shrink from left
             if (charIndex.count(c) && charIndex[c] >= left) {
                 left = charIndex[c] + 1;
             }
@@ -22,12 +21,11 @@ public:
     }
 };
 
-// Driver code
 int main() {
     Solution sol;
-    cout << sol.lengthOfLongestSubstring("abcabcbb") << endl; // 3
-    cout << sol.lengthOfLongestSubstring("bbbbb")    << endl; // 1
-    cout << sol.lengthOfLongestSubstring("pwwkew")   << endl; // 3
-    cout << sol.lengthOfLongestSubstring("")          << endl; // 0
+    cout << sol.lengthOfLongestSubstring("abcabcbb") << endl; 
+    cout << sol.lengthOfLongestSubstring("bbbbb")    << endl; 
+    cout << sol.lengthOfLongestSubstring("pwwkew")   << endl; 
+    cout << sol.lengthOfLongestSubstring("")          << endl; 
     return 0;
 }
